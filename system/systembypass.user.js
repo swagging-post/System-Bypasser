@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Bypass Key Systems
 // @author       Scott Ferren
-// @license       CC BY 4.0
+// @license      HCPL Private License
 // @match        *://gateway.platoboost.com/a/8?id=*
 // @match        *://*.linkvertise.com/*
 // @grant        none
